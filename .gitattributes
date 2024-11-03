@@ -1,3 +1,0 @@
-*.meta.shader.asset filter=lfs diff=lfs merge=lfs -text
-*.png.fbx filter=lfs diff=lfs merge=lfs -text
-*.prefab filter=lfs diff=lfs merge=lfs -text
